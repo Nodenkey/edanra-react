@@ -1,3 +1,9 @@
+Edanra is an online home leasing service that connects home owners and those in need of accomodation
+
+You can view edanra via: https://edanra.com/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
